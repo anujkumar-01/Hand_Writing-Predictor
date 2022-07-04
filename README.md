@@ -11,11 +11,11 @@ The second phase of work will include the amendment in the model like minimisati
 
 ## Required Hardware and Software
 
-###Hardware
+### Hardware
 1. Camera
 2. PC
 
-###Software
+### Software
 1. Python IDE (Jupyter notebook)
 2. Google Cloud or AWS
 3. Machine Learning library (TensorFlow, Keras)
